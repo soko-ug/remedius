@@ -1,4 +1,4 @@
-# Doctor Finder
+#Remedius Doctor Finder
 
 A new Flutter project.
 
